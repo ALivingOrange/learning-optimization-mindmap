@@ -1,0 +1,3 @@
+Refers to the amount of energy one needs to initiate a behavior or habit. Things which are already habits have very low activation energy, while new activities have higher activation energy. [Changes in the environment are an effective predictor of changes in habits](https://www.sciencedirect.com/science/article/pii/S2352154617301602)  
+
+Reducing the friction against doing something is important when starting a new habit. If it's gonna take you five minutes to get your exercising shoes out from the occult corner you hid them in, you're not going to want to exercise.

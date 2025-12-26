@@ -1,0 +1,2 @@
+Cards where one side holds a prompt to retrieve information and the other side holds the answer.
+They are a great tool for [[Spaced Practice]]; the learner initially makes the cards, then comes back later to revisit them and reinforce the memory.

@@ -1,0 +1,1 @@
+An extension of [[Skill Decomposition]] where the learner starts of only responsible for part of a task, with more of the task being delegated to them as they become more proficient. 

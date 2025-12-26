@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "85e5596372fccacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "745e014eef54e5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546bb79869e76e98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Influences on Learning.canvas",
+                "viewState": {
+                  "x": 17.52196556820418,
+                  "y": -486,
+                  "zoom": -1.1999876535559866
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Influences on Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57eab63999e71579",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c0e7fd231fb23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f9c373872f3e0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "815219d466d8b795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89bdc19bfdcb5c5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "243602a34f68e0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3085bef8da3c72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "411ad0ebd4c0e503",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Influences on Learning.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Influences on Learning"
+            }
+          },
+          {
+            "id": "229d8367ac2b2a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Influences on Learning.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Influences on Learning"
+            }
+          },
+          {
+            "id": "87feaa930e9b6b99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c15905ccacb20939",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core Principles of Learning.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Core Principles of Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "546bb79869e76e98",
+  "lastOpenFiles": [
+    "Influences on Learning.canvas",
+    "Elaboration.md",
+    "Dual Coding Theory.md",
+    "Growth Mindset.md",
+    "Motivation.md",
+    "Interleaving.md",
+    "Instructional Scaffolding.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Unused/The Pareto Principle.md",
+    "Unused/Using Expert Frameworks.md",
+    "The Feynman Technique.md",
+    "Unused/Study Environments.md",
+    "Unused/Sources of Feedback.md",
+    "Unused/Intentional Attention.md",
+    "Unused/Feedback.md",
+    "Unused/Elaborative Interrogation.md",
+    "Activation Energy.md",
+    "Unused/Cognitive Learning Theory.md",
+    "Untitled",
+    "Flash Cards.md",
+    "Unused/Core Principles of Learning.canvas",
+    "Sources.md",
+    "Focus.md",
+    "Immersive Learning.md",
+    "Deliberate Practice.md",
+    "Consistency.md",
+    "Active Recall.md",
+    "Unused/Knowledge Schemas.md",
+    "Unused/Main.canvas",
+    "Unused",
+    "Unused/Meta-Learning.canvas",
+    "Spaced Practice.md"
+  ]
+}

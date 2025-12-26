@@ -1,0 +1,1 @@
+Consistent practice is vitally important. Studying should be a habit. Especially make sure to consider [[Spaced Practice]] when setting up habits. 

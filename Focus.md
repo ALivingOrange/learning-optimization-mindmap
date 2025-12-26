@@ -1,0 +1,1 @@
+[Divided focus reduces information retention](https://www.sciencedirect.com/science/article/pii/S0749596X1930021X).

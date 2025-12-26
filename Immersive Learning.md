@@ -1,0 +1,3 @@
+While powerful, this can be very pressing and stressful; not recommended for non-critical skills.
+
+Learning by constantly immersing yourself in situations that require the skill. The quintessential example is living in a country which natively speaks a language that you're trying to learn. The pressure and sheer volume of opportunities to learn will basically force you to grow quickly. Internships are another example.
