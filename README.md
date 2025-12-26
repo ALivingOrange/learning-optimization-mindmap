@@ -1,7 +1,7 @@
 # Learning Optimization Mindmap
 
 ## Project Overview
-This presents some research I did on the learning process, and in particular the best ways to learn.
+Some formatted research on the learning process, and in particular the best ways to learn and teach. Made in the process of developing my Personal Knowledge Management system.
 
 ![Mindmap Preview](Mindmap.png)
 
